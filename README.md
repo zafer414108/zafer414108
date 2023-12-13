@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a software developer who is eager to learn new information at all times and in every field, and continues to learn in he field of front end developer and react native.Being a good and creative software developer has been my biggest dream since my childhood.I am confident in teamwork and exchanging ideas with my teammates.I also have a perspective on software problems.I think that I can contribute diffrent visions to my colleagues and my company .<br>
+I am a software developer and I focus on web and mobile application development,Full-stack developer especially through my passion for React and React Native and Back end technologies. I work on various projects and develop projects using  Boostrap, JavaScript, TypeScript, Node js, SQL.
+Thanks to my constant interest in new technologies and developments, I follow the latest trends in the industry and focus on using these innovations in my projects.
+I also place great value on teamwork and, thanks to my communication skills, I am able to collaborate effectively with team members.
+I have been involved in many projects and each one has presented learning opportunities and personal growth experiences for me. I look forward to working on new projects and contributing to the industry on this path. .<br>
 
 
 ## 🌐 Socials:
